@@ -1,0 +1,8 @@
+Smart Waste Pollution Management
+│
+├── .gitignore
+├── app.py
+│
+└── Data
+    ├── Smart Solid Waste Management Dataset.csv
+    └── processed_waste_data.csv
