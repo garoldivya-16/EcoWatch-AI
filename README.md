@@ -15,17 +15,17 @@ https://ecowatch-ai-divya.streamlit.app
 
 ## ✨ Features
 
-- 📊 Interactive environmental dashboard
-- ♻️ Waste collection analysis
-- 🌫️ Air Quality Index (AQI) monitoring
-- ⚠️ Smart risk detection
-- 🚨 Environmental compliance monitoring
-- 🗺️ Zone-wise environmental analysis
-- 🏆 Zone performance ranking
-- 🤖 Smart management recommendations
-- 🔍 Interactive filters for zones and districts
-- 📋 Environmental data explorer
-- 📥 Data download functionality
+- Interactive environmental dashboard
+- Waste collection analysis
+- Air Quality Index (AQI) monitoring
+- Smart risk detection
+- Environmental compliance monitoring
+- Zone-wise environmental analysis
+- Zone performance ranking
+- Smart management recommendations
+- Interactive filters for zones and districts
+- Environmental data explorer
+- Data download functionality
 
 ---
 
