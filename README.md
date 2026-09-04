@@ -62,50 +62,69 @@ EcoWatch-AI/
 │
 ├── processed_waste_data.csv
 └── Smart Solid Waste Management Dataset.csv
-📈 Smart Environmental Analysis
+```
+
+---
+
+## 📈 Smart Environmental Analysis
 
 The system analyzes environmental data and generates smart indicators such as:
 
-Waste Risk Level
-Pollution Risk Level
-Compliance Status
-Management Decisions
-Zone-wise Environmental Performance
+- Waste Risk Level
+- Pollution Risk Level
+- Compliance Status
+- Management Decisions
+- Zone-wise Environmental Performance
 
 These features help identify critical areas and support better environmental management decisions.
 
-▶️ Run Locally
+---
+
+## ▶️ Run Locally
 
 Clone the repository:
 
+```bash
 git clone https://github.com/garoldivya-16/EcoWatch-AI.git
+```
 
 Install the required libraries:
 
+```bash
 pip install -r requirements.txt
+```
 
 Run the Streamlit application:
 
+```bash
 streamlit run app.py
-🌐 Deployment
+```
+
+---
+
+## 🌐 Deployment
 
 The project is deployed using Streamlit Community Cloud.
 
-Live Application:
-
+**Live Application:**  
 https://ecowatch-ai-divya.streamlit.app
 
-👩‍💻 Author
+---
 
-Divya Vinay Garol
+## 👩‍💻 Author
+
+**Divya Vinay Garol**
 
 B.Tech – Electronics and Communication Engineering
 
-⭐ Future Enhancements
-Real-time IoT sensor integration
-Live pollution monitoring
-Machine Learning-based risk prediction
-Automated environmental alerts
-GIS-based interactive mapping
-Cloud database integration
-Mobile application support
+---
+
+## ⭐ Future Enhancements
+
+- Real-time IoT sensor integration
+- Live pollution monitoring
+- Machine Learning-based risk prediction
+- Automated environmental alerts
+- GIS-based interactive mapping
+- Cloud database integration
+- Mobile application support
