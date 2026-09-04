@@ -59,7 +59,6 @@ EcoWatch-AI/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
 ├── processed_waste_data.csv
 └── Smart Solid Waste Management Dataset.csv
 ```
