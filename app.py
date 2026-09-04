@@ -21,8 +21,8 @@ st.set_page_config(
 def load_data():
 
     df = pd.read_csv(
-        "data/processed_waste_data.csv"
-    )
+    "processed_waste_data.csv"
+)
 
     return df
 
