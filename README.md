@@ -115,7 +115,7 @@ https://ecowatch-ai-divya.streamlit.app
 
 **Divya Vinay Garol**
 
-B.Tech – Electronics and Communication Engineering
+B.Tech – Electronics and Computer Engineering
 
 ---
 
